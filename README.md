@@ -145,7 +145,7 @@ States:
 ## 🖼️ FSM diagram (add via draw.io)
 
 ```md
-![Ethernet Parser FSM](fsm.png)
+(fsm.png)
 ```
 
 
