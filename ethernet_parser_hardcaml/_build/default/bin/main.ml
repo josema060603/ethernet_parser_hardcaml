@@ -17,5 +17,5 @@ let () =
   in
 
   let circuit = Circuit.create_exn ~name:"ethernet_header_parser" outs in
-  Rtl.print Verilog (circuit)
-  
+  Rtl.print Verilog (circuit) 
+  (* run  dune exec main > parser.v from ethernet_parser_hardcaml/bin to print :) *)

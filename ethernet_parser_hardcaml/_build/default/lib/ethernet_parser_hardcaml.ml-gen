@@ -2,6 +2,3 @@
 
 (** @canonical Ethernet_parser_hardcaml.Parser *)
 module Parser = Ethernet_parser_hardcaml__Parser
-
-(** @canonical Ethernet_parser_hardcaml.Parser_tb *)
-module Parser_tb = Ethernet_parser_hardcaml__Parser_tb
