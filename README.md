@@ -144,14 +144,9 @@ States:
 
 ## 🖼️ FSM diagram (add via draw.io)
 
-> **Place your draw.io export here** (PNG/SVG).  
-> Suggested filename/location: `docs/fsm.png` then embed below:
-
 ```md
-![Ethernet Parser FSM](docs/fsm.png)
+![Ethernet Parser FSM](fsm.png)
 ```
-
-(Leave some vertical space here for the image.)
 
 
 
