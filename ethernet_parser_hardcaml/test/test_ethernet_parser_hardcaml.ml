@@ -1,7 +1,6 @@
 open Hardcaml
 open Ethernet_parser_hardcaml
 (* helpers *)
-(* let b1 x         = Bits.of_int ~width:1 x *)
 let b16 x        = Bits.of_int ~width:16 x
 let b48_i64 x    = Bits.of_int64 ~width:48 x
 let b64_i64 x    = Bits.of_int64 ~width:64 x
